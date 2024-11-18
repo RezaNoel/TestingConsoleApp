@@ -1,0 +1,15 @@
+c:\Users\ASUS\Desktop\Discord\C#\ConsoleApp\TestingConsoleApp\bin\Debug\net7.0\TestingConsoleApp.exe
+C:\Users\ASUS\Desktop\Discord\C#\ConsoleApp\TestingConsoleApp\bin\Debug\net7.0\TestingConsoleApp.deps.json
+C:\Users\ASUS\Desktop\Discord\C#\ConsoleApp\TestingConsoleApp\bin\Debug\net7.0\TestingConsoleApp.runtimeconfig.json
+c:\Users\ASUS\Desktop\Discord\C#\ConsoleApp\TestingConsoleApp\bin\Debug\net7.0\TestingConsoleApp.dll
+c:\Users\ASUS\Desktop\Discord\C#\ConsoleApp\TestingConsoleApp\bin\Debug\net7.0\TestingConsoleApp.pdb
+c:\Users\ASUS\Desktop\Discord\C#\ConsoleApp\TestingConsoleApp\obj\Debug\net7.0\TestingConsoleApp.csproj.AssemblyReference.cache
+c:\Users\ASUS\Desktop\Discord\C#\ConsoleApp\TestingConsoleApp\obj\Debug\net7.0\TestingConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ASUS\Desktop\Discord\C#\ConsoleApp\TestingConsoleApp\obj\Debug\net7.0\TestingConsoleApp.AssemblyInfoInputs.cache
+c:\Users\ASUS\Desktop\Discord\C#\ConsoleApp\TestingConsoleApp\obj\Debug\net7.0\TestingConsoleApp.AssemblyInfo.cs
+c:\Users\ASUS\Desktop\Discord\C#\ConsoleApp\TestingConsoleApp\obj\Debug\net7.0\TestingConsoleApp.csproj.CoreCompileInputs.cache
+c:\Users\ASUS\Desktop\Discord\C#\ConsoleApp\TestingConsoleApp\obj\Debug\net7.0\TestingConsoleApp.dll
+c:\Users\ASUS\Desktop\Discord\C#\ConsoleApp\TestingConsoleApp\obj\Debug\net7.0\refint\TestingConsoleApp.dll
+c:\Users\ASUS\Desktop\Discord\C#\ConsoleApp\TestingConsoleApp\obj\Debug\net7.0\TestingConsoleApp.pdb
+C:\Users\ASUS\Desktop\Discord\C#\ConsoleApp\TestingConsoleApp\obj\Debug\net7.0\TestingConsoleApp.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Discord\C#\ConsoleApp\TestingConsoleApp\obj\Debug\net7.0\ref\TestingConsoleApp.dll
